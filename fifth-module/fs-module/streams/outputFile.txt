@@ -1,0 +1,3 @@
+Jenny,Ny city,Work,Aboba,
+Adobe,Figma,Notebook
+Coach,Couch

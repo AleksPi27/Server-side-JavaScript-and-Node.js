@@ -1,0 +1,1 @@
+Current content of example fileSecond part of the content is appended to the of the fileFirst part of the content is appended to the middle of the fileSecond part of the content is appended to the of the fileFirst part of the content is appended to the middle of the file

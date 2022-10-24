@@ -1,0 +1,4 @@
+Hi there! What ya doing, dude?!
+Another string
+And one more though
+Ooops, what is a new line?!
