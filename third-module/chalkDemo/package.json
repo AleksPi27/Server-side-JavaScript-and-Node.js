@@ -1,0 +1,11 @@
+{
+    "name": "chalk-demo",
+    "version": "1.0.0",
+    "description": "",
+    "type": "module",
+    "main": "index.js",
+    "dependencies": {
+        "slice-ansi": "^5.0.0",
+        "chalk": "5.0.1"
+    }
+}
